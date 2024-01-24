@@ -18,7 +18,7 @@ _Italic Text_
 
 ## Background
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![picture of car jack](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
 [link to background](/background)
 
